@@ -1,0 +1,7 @@
+#** *GIT Y GITHUB* **
+
+Fue el tema que mas me gusto de la materia porque me parece fundamental 
+para trabajar en equipo y es aplicable desde el primer momento que
+ingresemos a trabajar como programadores.
+
+![imagen git](https://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@github.com/valem0910/Mercadotech.git)
